@@ -1,6 +1,12 @@
-In the project directory, you can run:
+### Full Stack House Marketplace Application
+    Using React and Firebase
 
-### `npm start`
+### `Features`
+- Sign In / Sign Up / Logout (Goolge OAuth)
+- Create/Update/Delete Listings
+- Error Message's (toastify)
+- Modern UI 
+- Responsive Design
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### `Preview`
+![houseMarketplace](https://user-images.githubusercontent.com/62636620/216966627-75dcf6fb-39f5-4fd4-8609-463698fc40d7.gif)
